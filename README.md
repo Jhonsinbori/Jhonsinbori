@@ -2,7 +2,6 @@
 My name is Johnson Sunday, I'm an IT professional with deep passion for coding. Over the years, I learned programming languages such
 as Java, PHP, HTML, CSS, Mysql, Python, Kotlin and React.JS. 
 
-- 🔭 I’m currently working on seowebanalyst.com
 - 🌱 I’m currently learning react.js
 - 📫 You can reach me at jhonsinbori@hotmail.com or jhonsinbori.sunday@gmail.com
 
